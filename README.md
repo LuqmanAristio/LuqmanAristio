@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Luqman and I'm a Developer, from Indonesia</p>
+<h3 align="left">My name is Luqman and I'm a Developer, from Indonesia</h3>
 
 ###
 
