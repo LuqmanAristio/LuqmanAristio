@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Working as Full Stack Developer<br>📚 I'm currently learning Golang and Rails<br>🎯 Goals: Make greater impact</p>
+<p align="left">✨ Working as Full Stack Developer<br>📚 Currently learning Golang and Rails Ruby<br>🎯 Goals: Make greater impact</p>
 
 ###
 
