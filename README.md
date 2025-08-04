@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">My name is Luqman and I'm a Developer, from Indonesia</p>
+<p align="left">Its Luqman and I'm a Software Developer, from Indonesia</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Last Updated</h2>
 
 ###
 
-<p align="left">✨ Working as Full Stack Developer<br>📚 Currently learning Golang and Rails Ruby<br>🎯 Goals: Make greater impact</p>
+<p align="left">✨ Working as Full Stack Developer<br>📚 Learning Golang & System Design<br>🎯 Feel free to reach me anytime</p>
 
 ###
 
